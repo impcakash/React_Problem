@@ -1,0 +1,11 @@
+div {
+    font-size: medium;
+    color: blueviolet;
+}
+
+button {
+    width: 150px;
+    color: blue;
+    padding: 5px;
+    margin: 5px;
+}
